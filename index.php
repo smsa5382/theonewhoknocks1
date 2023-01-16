@@ -1,5 +1,5 @@
 <?php
 
-header("Location:https://traksonic.com/MSWPpJ")
+header("Location:https://traksonic.com/qscbC3")
 
 ?>
